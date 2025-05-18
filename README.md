@@ -1,4 +1,4 @@
-# Kavindu Umayanga - Azure Static Web Demo 🌐
+# Kemitha Krishmanthi - Azure Static Web Demo 🌐
 
 This is a simple, modern, and fully responsive **static personal portfolio website** created for a Microsoft Learn Student Ambassadors (MLSA) session.
 
